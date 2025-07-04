@@ -1,7 +1,7 @@
 # linux-journey
 
 
-поднял Linux в Yandex Cloud.
+Поднял Linux в Yandex Cloud.
 Предоставил ssh ключи.
 Авторизовался.
 Создал нового пользователя.
